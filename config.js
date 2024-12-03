@@ -3,7 +3,7 @@ export const KAKAOTALK_API_TOKEN = "161cb0af5d02a3b8c8b158c0d65f5885";
 export const KAKAOTALK_SHARE_IMAGE =
   "https://cdn.pixabay.com/photo/2014/11/13/17/04/heart-529607_960_720.jpg";
 
-export const WEDDING_DATE = "2025년 9월 6일 일요일 오후 1시 50분";
+export const WEDDING_DATE = "2025년 11월 2일 일요일 오후 1시 50분";
 export const WEDDING_LOCATION = "월드컵컨벤션, 2층 임페리얼홀";
 
 export const GROOM_NAME = "김경호";
